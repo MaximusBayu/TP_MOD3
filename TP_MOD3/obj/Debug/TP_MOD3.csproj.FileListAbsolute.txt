@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\TP_MOD3\TP_MOD3\bin\Debug\TP_MOD3.exe.config
+C:\Users\DELL\source\repos\TP_MOD3\TP_MOD3\bin\Debug\TP_MOD3.exe
+C:\Users\DELL\source\repos\TP_MOD3\TP_MOD3\bin\Debug\TP_MOD3.pdb
+C:\Users\DELL\source\repos\TP_MOD3\TP_MOD3\obj\Debug\TP_MOD3.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\TP_MOD3\TP_MOD3\obj\Debug\TP_MOD3.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\TP_MOD3\TP_MOD3\obj\Debug\TP_MOD3.Form1.resources
+C:\Users\DELL\source\repos\TP_MOD3\TP_MOD3\obj\Debug\TP_MOD3.Properties.Resources.resources
+C:\Users\DELL\source\repos\TP_MOD3\TP_MOD3\obj\Debug\TP_MOD3.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\TP_MOD3\TP_MOD3\obj\Debug\TP_MOD3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TP_MOD3\TP_MOD3\obj\Debug\TP_MOD3.exe
+C:\Users\DELL\source\repos\TP_MOD3\TP_MOD3\obj\Debug\TP_MOD3.pdb
+C:\Users\DELL\source\repos\TP_MOD3\TP_MOD3\obj\Debug\TP_MOD3.Form2.resources

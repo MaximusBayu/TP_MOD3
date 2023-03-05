@@ -16,5 +16,36 @@ namespace TP_MOD3
         {
             InitializeComponent();
         }
+
+        private void Form1_Load_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Check()
+        {
+            if (richTextBox3_TextChanged.TextLength > 0)
+            {
+                button2_Click.Enabled = true;
+                button2_Click.BackColor = Color.Green;
+            }
+            else
+            {
+                button2_Click.Enabled = false;
+                button2_Click.BackColor = DefaultBackColor;
+            }
+        }
+
+        private void richTextBox3_TextChanged(object sender, EventArgs e)
+        {
+            Check();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        
     }
 }
